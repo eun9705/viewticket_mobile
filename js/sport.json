@@ -1,0 +1,38 @@
+{
+    "soccer": [
+        {"name":"FC 서울 프로축구단","home":"서울월드컵경기장","eng_name":"Football Club Seoul","image":"../images/sport/soccer_img_01.png"},
+        {"name":"강원 FC","home":"춘천송암스포츠타운","eng_name":"GANGWON FOOTBALL CLUB","image":"../images/sport/soccer_img_02.png"},
+        {"name":"광주 FC","home":"광주축구전용구장","eng_name":"GWANGJU FOOTBALL CLUB","image":"../images/sport/soccer_img_03.png"},
+        {"name":"대구 FC","home":"DGB대구은행파크","eng_name":"DAEGU FOOTBALL CLUB","image":"../images/sport/soccer_img_04.png"},
+        {"name":"성남 FC","home":"탄천 종합 운동장","eng_name":"SEONGNAM FOOTBALL CLUB","image":"../images/sport/soccer_img_05.png"},
+        {"name":"수원 FC","home":"수원종합운동장","eng_name":"SUWON FOOTBALL CLUB","image":"../images/sport/soccer_img_06.png"},
+        {"name":"수원 삼성 블루윙즈 축구단","home":"수원월드컵경기장","eng_name":"Suwon Samsung Bluewings","image":"../images/sport/soccer_img_07.png"},
+        {"name":"울산 현대","home":"울산문수축구경기장","eng_name":"Ulsan Hyundai Football Club","image":"../images/sport/soccer_img_08.png"},
+        {"name":"전북 현대 모터스","home":"전주월드컵경기장","eng_name":"Jeonbuk Hyundai Motors","image":"../images/sport/soccer_img_09.png"},
+        {"name":"제주 유나이티드 축구단","home":"제주월드컵경기장","eng_name":"Jeju United Football Club","image":"../images/sport/soccer_img_10.png"}
+    ],
+    "baseball": [
+        {"name":"KIA 타이거즈","home":"광주-기아 챔피언스 필드","eng_name":"KIA TIGERS BASEBALL CLUB","image":"../images/sport/baseball_img_01.png"},
+        {"name":"LG 트윈스","home":"서울종합운동장 야구장","eng_name":"LG Twins BASEBALL CLUB","image":"../images/sport/baseball_img_02.png"},
+        {"name":"NC 다이노스","home":"창원 NC 파크","eng_name":"NC Dinos BASEBALL CLUB","image":"../images/sport/baseball_img_03.png"},
+        {"name":"SK 와이번스","home":"인천SK행복드림구장","eng_name":"SK WYVERNS BASEBALL CLUB","image":"../images/sport/baseball_img_04.png"},
+        {"name":"두산 베어스","home":"서울종합운동장 야구장","eng_name":"DOOSAN BEARS BASEBALL CLUB","image":"../images/sport/baseball_img_05.png"},
+        {"name":"롯데 자이언츠","home":"사직 야구장","eng_name":"Lotte Giants BASEBALL CLUB","image":"../images/sport/baseball_img_06.png"},
+        {"name":"삼성 라이온즈","home":"대구 삼성 라이온즈 파크","eng_name":"Samsung Lions BASEBALL CLUB","image":"../images/sport/baseball_img_07.png"},
+        {"name":"키움 히어로즈","home":"고척 스카이돔","eng_name":"KIWOOM HEROES BASEBALL CLUB","image":"../images/sport/baseball_img_08.png"},
+        {"name":"한화 이글스","home":"청주종합운동장 야구장","eng_name":"Hanwha Eagles BASEBALL CLUB","image":"../images/sport/baseball_img_09.png"},
+        {"name":"케이티 위즈","home":"수원 케이티 위즈 파크","eng_name":"KT wiz BASEBALL CLUB","image":"../images/sport/baseball_img_10.png"}
+    ],
+    "basketball": [
+        {"name":"고양 오리온 오리온스","home":"고양체육관","eng_name":"Goyang Orion Orions","image":"../images/sport/basketball_img_01.png"},
+        {"name":"부산 kt 소닉붐","home":"부산 사직체육관","eng_name":"Busan kt Sonicboom","image":"../images/sport/basketball_img_02.png"},
+        {"name":"서울 삼성 썬더스","home":"잠실실내체육관","eng_name":"Seoul Samsung Thunders","image":"../images/sport/basketball_img_03.png"},
+        {"name":"서울 SK 나이츠","home":"잠실학생체육관","eng_name":"Seoul SK Knights","image":"../images/sport/basketball_img_04.png"},
+        {"name":"안양 KGC인삼공사","home":"안양실내체육관","eng_name":"Anyang KGC","image":"../images/sport/basketball_img_05.png"},
+        {"name":"울산 현대모비스 피버스","home":"울산동천체육관","eng_name":"Ulsan Hyundai Mobis Phoebus","image":"../images/sport/basketball_img_06.png"},
+        {"name":"원주 DB 프로미","home":"원주종합체육관","eng_name":"Wonju DB Promy","image":"../images/sport/basketball_img_07.png"},
+        {"name":"인천 전자랜드 엘리펀츠","home":"인천삼산월드체육관","eng_name":"INCHEON ELECTROLAND ELEPHANTS","image":"../images/sport/basketball_img_08.png"},
+        {"name":"전주 KCC 이지스","home":"전주실내체육관","eng_name":"Jeonju KCC Egis","image":"../images/sport/basketball_img_09.png"},
+        {"name":"창원 LG 세이커스","home":"창원실내체육관","eng_name":"Changwon LG Sakers","image":"../images/sport/basketball_img_10.png"}
+    ]
+}

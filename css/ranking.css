@@ -1,0 +1,24 @@
+@charset "UTF-8";
+#sub_menu ul{ display: block; padding: 15px; box-sizing: border-box; overflow: hidden; }
+#sub_menu ul > li{ float: left; margin-right: 10px; margin-bottom: 10px; padding: 7px 15px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 5px; }
+#sub_menu ul > li.last{ margin-bottom: 0; }
+#sub_contents h5{ margin: 25px 0 15px; text-align: center; }
+#sub_contents h5 .current_date{ color: #f19c49; }
+#sub_contents .wrap .content > div{ display: none; }
+#sub_contents .list li{ position: relative; height: 12.5rem; padding: 20px 0; box-sizing: border-box; border-bottom: 1px solid #ccc; }
+#sub_contents .list li:first-child{ border-top: 2px solid #333; box-sizing: border-box; }
+#sub_contents .list li:last-child{ border-bottom: 2px solid #333; box-sizing: border-box; }
+#sub_contents .wrap .list li .num{ position: absolute; top: 15px; left: -5px; width: 35px; height: 50px; line-height: 35px; color: #fff; text-decoration: none; text-align: center; font-size: 0.75rem; background-image: url(../images/ranking/ranking_icon.png); background-repeat: no-repeat; background-size: 35px; }
+#sub_contents .list li .img_box img{ float: left; width: 6.875rem; margin-right: 10px; }
+#sub_contents .wrap .list li h4{ height: 3.75rem; margin-bottom: 10px; line-height: 1.25rem; font-size: 0.875rem; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+#sub_contents .wrap .list li .place, #sub_contents .wrap .list li .date{ color: #999; font-size: 0.8125rem; }
+#sub_contents .wrap .list li .date{ margin-bottom: 5px; }
+#sub_contents .wrap .list li .rate{ font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 1.25rem; }
+#sub_contents .wrap .list li .like{ padding-left: 9.0625rem; box-sizing: border-box; color: #e87722; font-size: 0.75rem; background-image: url(../images/ranking/like_icon.png); background-repeat: no-repeat; background-size: 17px; background-position: 7.5rem center; }
+@media screen and (max-width: 360px){
+    #sub_menu ul > li:nth-child(4){ margin-bottom: 0; }
+    #sub_contents .wrap .list li h4{ margin-bottom: 15px; }  
+}
+@media screen and (max-width: 320px){
+    #sub_contents .wrap .list li h4{ height: 50px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }    
+}

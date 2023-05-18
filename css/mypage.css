@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.mypage_content{ width: 100%; margin-bottom: 30px; padding: 20px 15px; box-sizing: border-box; background-color: #f5f5f5; overflow: hidden; }
+.mypage_content > p{ float: left; margin-bottom: 10px; }
+.mypage_content a.rank_btn{ position: relative; top: -4px; float:right; display: inline-block; width: 4.375rem; height: 1.5rem; line-height: 1.5rem; border: 1px solid #ccc; box-sizing: border-box; border-radius: 2px; background-color: #fff; box-shadow: 1px 1px 1px rgba(0,0,0,0.2); color: #333; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 0.75rem; text-align: center; }
+.mypage_content ul{ width: 100%; height: 100%; padding: 0 20px; box-sizing: border-box; background-color: #fff; border: 1px solid #ccc; overflow: hidden; }
+.mypage_content ul li{ padding: 15px 0; box-sizing: border-box; }
+.mypage_content ul li.first{ border-bottom: 1px solid #ccc; box-sizing: border-box; }
+.mypage_content li h6, .mypage_content li h6 .highlight{ font-size: 0.875rem; }
+.mypage_content li p, .mypage_content li p .highlight{ color: #666; font-size: 0.8125rem; }
+.mypage_content li p .highlight{ color: #f19c49; }
+.mypage_content li a{ position: relative; top: -30px; float: right; color: #f19c49; font-family: 'S-CoreDream-3Light', '맑은 고딕', sans-serif; font-size: 0.75rem; }
+.mypage_content a small{ color: #f19c49; font-family: 'S-CoreDream-3Light', '맑은 고딕', sans-serif; font-size: 0.625rem; }
+
+#sub_contents{ padding: 0; }
+#join_form{ padding: 0 15px; box-sizing: border-box; }
+#join_form p{ text-align: left; }

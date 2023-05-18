@@ -1,0 +1,9 @@
+#sort_select{ width: 100%; height: 60px; padding: 0 15px; box-sizing: border-box; }
+#sort_list{ position: relative; top: 15px; float: right; width: 140px; height: 30px; padding-left: 10px; box-sizing: border-box; font-size: 0.875rem; -webkit-appearance: none; -moz-appearance: none; appearance: none; background: url(../images/top_nav/phone_arrow_icon.png) no-repeat 95% 50%/12px; border: 1px solid #ccc; }
+#sub_contents .wrap > div{ display: none; }
+#sub_contents .wrap div li{ padding: 20px 0; box-sizing: border-box; border-bottom: 1px solid #ccc; overflow: hidden; }
+#sub_contents .wrap div img{ width: 100%; margin-right: 10px; }
+#sub_contents .wrap div .event_category{ display: inline-block; margin: 15px 0 5px; padding: 5px 10px; border: 1px solid #f19c49; box-sizing: border-box; color: #f19c49; font-size: 0.75rem; }
+#sub_contents .wrap .text_box h4{ margin: 5px 0; font-size: 0.875rem; }
+#sub_contents .wrap .text_box p, #sub_contents .wrap .text_box .win{ font-size: 0.75rem; }
+#sub_contents .wrap .text_box .d_day{ margin-top: 10px; text-align: right; }

@@ -1,0 +1,48 @@
+{
+    "kids_musical": [
+        {"name":"인피니티 플라잉（INFINITY FLYING）","place":"국립중앙박물관 내 극장용","date":"2021.01.20 ~ 2021.02.28","image":"../images/performance/musical_img_17.jpg"},
+        {"name":"[미소티켓] Original 행복자의 가족뮤지컬 <넌 특별하단다>","place":"대학로 시온아트홀","date":"2020.12.23 ~ 2021.01.23","image":"../images/kids/kids_musical_img_01.jpg"},
+        {"name":"[미소티켓] 페이퍼아트뮤지컬 [종이아빠]","place":"대학로 시온아트홀","date":"2020.12.24 ~ 2021.01.23","image":"../images/kids/kids_musical_img_02.jpg"},
+        {"name":"[대학로] 명작 가족뮤지컬 [어린왕자의 꿈]","place":"대학로 마루아트홀(구, 레몬아트홀)","date":"OPEN RUN","image":"../images/kids/kids_musical_img_03.jpg"},
+        {"name":"[전주] 뮤지컬 헬로카봇 시즌5 [별똥별을 지켜라!]","place":"한국소리문화의전당 모악당","date":"2021.02.20 ~ 2021.02.21","image":"../images/performance/musical_img_04.jpg"},
+        {"name":"[고양]렛잇고 시즌2","place":"고양어울림누리 별모래극장","date":"2021.01.30 ~ 2021.01.31","image":"../images/kids/kids_musical_img_04.jpg"},
+        {"name":"[군포]렛잇고 시즌2","place":"군포시문화예술회관 철쭉홀","date":"2020.12.05 ~ 2020.12.06","image":"../images/kids/kids_musical_img_04.jpg"},
+        {"name":"뮤지컬 〈알사탕〉 - 서울숲","place":"서울숲 갤러리아포레 G층 전용관","date":"2020.05.01 ~ 2021.03.01","image":"../images/kids/kids_musical_img_05.jpg"},
+        {"name":"성냥팔이소녀와 캐롤송","place":"대학로 서연아트홀","date":"2020.12.05 ~ 2020.12.27","image":"../images/kids/kids_musical_img_06.jpg"},
+        {"name":"[과천] 호두까기인형","place":"국립과천과학관 어울림홀","date":"2020.11.28 ~ 2020.12.27","image":"../images/performance/musical_img_01.jpg"},
+        {"name":"[대구] 겨울방학특별 가족뮤지컬 [백설공주]","place":"대백프라임홀(대백프라자 10층)","date":"2020.12.29 ~ 2021.01.17","image":"../images/kids/kids_musical_img_07.jpg"},
+        {"name":"[고양] 뮤지컬 헬로카봇 시즌5 [별똥별을 지켜라!]","place":"고양어울림누리 어울림극장","date":"2021.02.27 ~ 2021.02.28","image":"../images/kids/kids_musical_img_08.jpg"}
+    ],
+    "kids_play": [
+        {"name":"연극 시간을 파는 상점","place":"파랑씨어터","date":"2017.10.01 ~ 2021.01.31","image":"../images/kids/kids_play_img_01.jpg"},
+        {"name":"영·유아를 위한 인형극 [청골이가 달라졌어요 & 토끼와 거북이]","place":"명작극장","date":"2020.10.22 ~ 2020.12.22","image":"../images/kids/kids_play_img_02.jpg"},
+        {"name":"용인어린이상상의숲 〈어린이연희극 - 연희는 방구왕〉","place":"용인어린이상상의숲 공연놀이터","date":"2021.01.29 ~ 2021.02.07","image":"../images/kids/kids_play_img_03.jpg"},
+        {"name":"수원 어린이마술쇼","place":"미리내 마술극단","date":"2019.03.09 ~ 2021.01.31","image":"../images/kids/kids_play_img_04.jpg"},
+        {"name":"감성 힐링 가족음악극 〈안녕 달아〉","place":"달밤엔씨어터","date":"2021.01.09 ~ 2021.01.31","image":"../images/kids/kids_play_img_05.jpg"},
+        {"name":"존경하는","place":"대학로 공간아울","date":"2021.02.02 ~ 2021.02.07","image":"../images/kids/kids_play_img_06.jpg"},
+        {"name":"치카치카 버블맨","place":"홍대 김대범소극장","date":"2020.04.04 ~ OPEN RUN","image":"../images/kids/kids_play_img_07.jpg"},
+        {"name":"아웃사이더","place":"혜화동 1번지","date":"2021.01.27 ~ 2021.01.31","image":"../images/kids/kids_play_img_08.jpg"},
+        {"name":"놀부전","place":"경복궁아트홀","date":"2021.01.01 ~ 2021.01.31","image":"../images/kids/kids_play_img_09.jpg"},
+        {"name":"미래상상마술쇼","place":"송파브이아트홀","date":"2019.11.02 ~ 2021.02.07","image":"../images/kids/kids_play_img_10.jpg"},
+        {"name":"가족음악극 <한여름 밤의 꿈>","place":"세종문화회관 M씨어터","date":"2021.01.08 ~ 2021.01.31","image":"../images/kids/kids_play_img_11.jpg"}
+    ],
+    "kids_classic": [
+        {"name":"2021 마리아칼라스홀 - 최정주의 아트앤뮤직 큐레이션 〈도시의 미술관 산책 Ⅴ〉","place":"마리아칼라스홀(자세히)","date":"2021.05.26","image":"../images/kids/kids_classic_img_01.jpg"},
+        {"name":"테너 김동현과 음악친구들","place":"일신홀","date":"2021.01.28","image":"../images/kids/kids_classic_img_02.jpg"},
+        {"name":"피아놀로지(PIANOLOGY) 창단연주회","place":"영산아트홀","date":"2021.03.05","image":"../images/kids/kids_classic_img_03.jpg"}
+    ],
+    "kids_exhibition": [
+        {"name":"1101 어린이라운지 이용권","place":"예술의전당 비타민스테이션 1101 어린이라운지","date":"2020.01.11 ~ 2021.12.31","image":"../images/kids/kids_exhibition_img_01.jpg"},
+        {"name":"예술의전당 예술놀이 스튜디오〈나는 아티스트다 : 폴리 Foley〉(1.30)","place":"예술의전당 인춘아트홀","date":"2021.01.30","image":"../images/kids/kids_exhibition_img_02.jpg"},
+        {"name":"예술의전당 예술놀이 스튜디오〈나는 아티스트다 : 폴리 Foley〉(2.6)","place":"예술의전당 인춘아트홀","date":"2021.02.06","image":"../images/kids/kids_exhibition_img_02.jpg"},
+        {"name":"용인어린이상상의숲 〈로봇패키지〉","place":"용인어린이상상의숲 로봇놀이터","date":"2021.01.19 ~ 2021.02.10","image":"../images/kids/kids_exhibition_img_03.jpg"},
+        {"name":"용인어린이상상의숲 〈미술놀이 패키지〉","place":"용인어린이상상의숲 미술놀이터, 미디어숲","date":"2021.01.19 ~ 2021.02.10","image":"../images/kids/kids_exhibition_img_04.jpg"},
+        {"name":"용인어린이상상의숲 〈어린이스내그골프놀이터〉","place":"용인어린이상상의숲 캠핑놀이터","date":"2021.01.19 ~ 2021.02.10","image":"../images/kids/kids_exhibition_img_05.jpg"},
+        {"name":"용인어린이상상의숲 〈작은별 놀이터〉","place":"용인어린이상상의숲 예술놀이터","date":"2021.01.19 ~ 2021.02.10","image":"../images/kids/kids_exhibition_img_06.jpg"},
+        {"name":"용인어린이상상의숲 〈창의융합패키지〉","place":"용인어린이상상의숲","date":"2021.01.19 ~ 2021.02.10","image":"../images/kids/kids_exhibition_img_07.jpg"},
+        {"name":"윌리코키 키즈카페 화북점-대인무제한 키즈카페 이용권","place":"윌리코키 키즈카페 화북점","date":"2019.12.09 ~ 2021.01.31","image":"../images/kids/kids_exhibition_img_08.jpg"},
+        {"name":"윌리코키 키즈카페 화북점-소인1시간 키즈카페 이용권","place":"윌리코키 키즈카페 화북점","date":"2019.12.09 ~ 2021.01.31","image":"../images/kids/kids_exhibition_img_08.jpg"},
+        {"name":"윌리코키 키즈카페 화북점-소인2시간 키즈카페 이용권","place":"윌리코키 키즈카페 화북점","date":"2019.12.09 ~ 2021.01.31","image":"../images/kids/kids_exhibition_img_08.jpg"},
+        {"name":"윌리코키 키즈카페 화북점-소인무제한 키즈카페 이용권","place":"윌리코키 키즈카페 화북점","date":"2019.12.09 ~ 2021.01.31","image":"../images/kids/kids_exhibition_img_08.jpg"}
+    ]
+}

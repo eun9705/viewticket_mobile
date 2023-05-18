@@ -1,0 +1,18 @@
+{
+    "current": [
+        {"category":"경품이벤트","name":"연극〈비프〉 관람후기 이벤트","period":"2021.01.27 ~ 2021.03.07","end":"Mar 7,2021,23:59:59","announcement":"2021.03.08","images":"../images/board/event_bn_01.jpg"},
+        {"category":"초대이벤트","name":"뮤지컬〈검은 사제들〉 기대평 이벤트","period":"2021.01.20 ~ 2021.02.24","end":"Feb 24,2021,23:59:59","announcement":"2021.02.25","images":"../images/board/event_bn_02.jpg"},
+        {"category":"경품이벤트","name":"뮤지컬 〈캣츠〉 40주년 내한공연 앙코르 관람후기 이벤트","period":"2021.01.22 ~ 2021.02.26","end":"Feb 26,2021,23:59:59","announcement":"2021.03.02","images":"../images/board/event_bn_03.jpg"},
+        {"category":"초대이벤트","name":"뮤지컬 〈위키드〉 기대평 이벤트","period":"2021.01.19 ~ 2021.02.10","end":"Feb 10,2021,23:59:59","announcement":"2021.02.15","images":"../images/board/event_bn_04.jpg"},
+        {"category":"프로모션","name":"2021 출석체크","period":"2021.01.01 ~ 2021.12.31","end":"Dec 31,2021,23:59:59","announcement":"2022.01.05","images":"../images/board/event_bn_05.jpg"},
+        {"category":"프로모션","name":"개인정보 보호 캠페인","period":"2021.01.01 ~ 2021.12.31","end":"Dec 31,2021,23:59:59","announcement":"2022.01.05","images":"../images/board/event_bn_06.jpg"}
+    ],
+    "end": [
+        {"category":"경품이벤트","name":"연극 〈앙리할아버지와 나〉 관람후기 이벤트","period":"2020.12.04 ~ 2021.01.28","end":"Jan 28,2021,23:59:59","announcement":"2021.01.29","images":"../images/board/event_bn_07.jpg"},
+        {"category":"프로모션","name":"DAY6 (Even of Day) Online Party Night 〈 The Arcane Salon 〉 예매 이벤트","period":"2021.01.06 ~ 2021.01.24","end":"Jan 24,2021,23:59:59","announcement":"2021.02.01","images":"../images/board/event_bn_08.jpg"},
+        {"category":"초대이벤트","name":"뮤지컬 〈명성왕후〉 25주년 기념 공연 기대평 이벤트","period":"2020.12.14 ~ 2020.12.27","end":"Dec 27,2020,23:59:59","announcement":"2020.12.28","images":"../images/board/event_bn_09.jpg"},
+        {"category":"경품이벤트","name":"뮤지컬 〈스모크〉 기대평 이벤트","period":"2020.12.01 ~ 2020.12.03","end":"Dec 8,2020,23:59:59","announcement":"2020.12.08","images":"../images/board/event_bn_10.jpg"},
+        {"category":"초대이벤트","name":"뮤지컬 〈HOPE:읽히지 않은 책과 읽히지 않은 인생〉관람후기 이벤트","period":"2020.11.19 ~ 2020.12.31","end":"Dec 31,2020,23:59:59","announcement":"2021.01.04","images":"../images/board/event_bn_11.jpg"},
+        {"category":"경품이벤트","name":"뮤지컬 〈블랙메리포핀스〉 관람후기 이벤트","period":"2020.10.30 ~ 2020.12.31","end":"Dec 31,2020,23:59:59","announcement":"2021.01.04","images":"../images/board/event_bn_12.jpg"}
+    ]
+}

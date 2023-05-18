@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="robots" content="nodindex,nofollow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>모바일웹::VIEW티켓</title>
+        <link rel="shortcut icon" href="../images/common/favicon.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="../images/common/favicon_ios.png">
+        <link rel="icon" sizes="192x192" href="../images/common/favicon_android.png">
+        <link rel="stylesheet" href="../css/swiper.min.css">
+        <link rel="stylesheet" href="../css/common.css">
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="../css/sub.css">
+        <link rel="stylesheet" href="../css/join.css">
+        <link rel="stylesheet" href="../css/mypage.css">
+        <script src="../js/jquery-1.12.0.min.js"></script>
+        <script src="../js/jquery.easing.1.3.js"></script>
+        <script src="../js/swiper.min.js"></script>
+        <script src="../js/common.js"></script>
+    </head>
+    <body>
+		<div class="panel">
+    		<div class="panel_top">
+                <ul>
+                    <li class="title"><a href="login.html">로그인</a></li>
+                    <li class="second">
+                        <ul class="language_box">
+                            <li class="first"><a href="../index.html">KOR</a></li>
+                            <li class="last"><a href="#global_page">ENG</a></li>
+                        </ul>
+                    </li>
+                    <li class="panel_close"><a href="#close_panel" title="패널 닫기"></a></li>
+                </ul>    
+  			</div>
+            <div class="panel_middle">
+                <ul>
+                    <li><a href="mypage.html">MY티켓</a></li>
+                    <li><a href="cscenter.html">고객센터</a></li>
+                    <li class="last"><a href="../ranking/ranking.html">공연순위</a></li>
+                </ul>
+            </div>
+            <nav class="gnb">
+                <ul>
+                    <li>
+                        <a href="#main01" class="main_nav">공연</a>
+                        <ul class="sub_nav">
+                            <li><a href="../performance/concert.html">콘서트</a></li>
+                            <li><a href="../performance/play.html">연극</a></li>
+                            <li><a href="../performance/musical.html">뮤지컬</a></li>
+                            <li class="last"><a href="../performance/classic.html">클래식/무용</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#main02" class="main_nav">전시/행사</a>
+                        <ul class="sub_nav">
+                            <li><a href="../exhibition/exhibition.html">전시</a></li>
+                            <li class="last"><a href="../exhibition/experience.html">체험행사</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#main03" class="main_nav">아동</a>
+                        <ul class="sub_nav">
+                            <li><a href="../kids/kids_musical.html">뮤지컬</a></li>
+                            <li><a href="../kids/kids_play.html">연극</a></li>
+                            <li><a href="../kids/kids_classic.html">클래식/무용</a></li>
+                            <li class="last"><a href="../kids/kids_exhibition.html">전시/행사</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#main04" class="main_nav">스포츠</a>
+                        <ul class="sub_nav">
+                            <li><a href="../sport/soccer.html">축구</a></li>
+                            <li><a href="../sport/baseball.html">야구</a></li>
+                            <li class="last"><a href="../sport/basketball.html">농구</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#main05" class="main_nav">공연이야기</a>
+                        <ul class="sub_nav">
+                            <li><a href="../story/org_story.html">공연단체 이야기</a></li>
+                            <li class="last"><a href="../story/support.html">제작 지원 사업</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#main06" class="main_nav">게시판</a>
+                        <ul class="sub_nav">
+                            <li><a href="../board/notice.html">공지사항</a></li>
+                            <li><a href="../board/event.html">이벤트</a></li>
+                            <li class="last"><a href="../board/community.html">커뮤니티</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+    	</div>
+        <div class="panel_bg"></div>
+        <div class="body_wrap">
+            <header>
+                <a href="../panel_open" title="패널열기" class="panel_icon">
+                    <img src="../images/common/header_panel_icon.png" alt="패널 아이콘">
+                </a>
+                <h1>
+                    <a href="../index.html">
+                        <img src="../images/common/header_logo.png" alt="VIEW티켓 로고">
+                    </a>
+                </h1>
+                <a href="#search_open" title="검색창 열기" class="search_icon">
+                    <img src="../images/common/header_search_icon.png" alt="검색 아이콘">
+                </a>
+            </header>
+            <div class="search_box">
+                <form action="#">
+                    <input type="text" id="search" placeholder="검색어를 입력하세요.">
+                    <label for="search">검색입력상자</label>
+                    <button type="submit">검색버튼</button>
+                </form>
+            </div>
+            <div id="sub_title">
+                <ul class="indicator">
+                    <li class="first"><a href="../index.html">HOME</a></li>
+                    <li><a href="mypage.html">MY티켓</a></li>
+                </ul>
+                <h3>MY티켓</h3>
+            </div>
+            <div id="sub_contents">
+                <div class="wrap">
+                    <div class="mypage_content">
+                        <p>홍길동님은 <span class="highlight">일반회원</span>입니다.</p>
+                        <a href="#empty" class="rank_btn">등급안내</a>
+                        <ul>
+                            <li class="first">
+                                <h6>최근 예매 내역</h6>
+                                <p>관람 가능 예매내역 <span class="highlight">0</span>건</p>
+                                <a href="#empty">전체보기 <small>▶</small></a>
+                            </li>
+                            <li>
+                                <h6>나의 VIEW포인트 <span class="highlight">0</span>원</h6>
+                                <p>5,000원이상 환전가능</p>
+                                <a href="#empty" class="detail">자세히 <small>▶</small></a>
+                            </li>
+                        </ul>    
+                    </div>
+                    <form name="join_form" id="join_form" action="#">
+                        <p>회원정보 수정</p>
+                        <ul>
+                            <li>
+                                <span class="star">*</span>이름
+                                <input type="text" id="join_name" name="join_name" value="홍길동" readonly>
+                                <label for="join_name" class="away">이름 입력</label>
+                            </li>
+                            <li>
+                                <span class="star">*</span>아이디
+                                <input type="text" id="join_id" name="join_id">
+                                <label for="join_id" class="away">아이디 입력</label>
+                                <button id="chk_btn">중복확인</button>
+                            </li>
+                            <li>
+                                <span class="star">*</span>비밀번호
+                                <input type="password" placeholder="공백없이 영문, 숫자 6~20자 사용가능" id="pw01">
+                                <label for="pw01" class="away">비밀번호 입력</label>
+                            </li>
+                            <li>
+                                <span class="star">*</span>비밀번호 확인
+                                <input type="password" placeholder="비밀번호를 재입력하세요" id="pw02">
+                                <label for="pw01" class="away">비밀번호 확인</label>
+                            </li>
+                            <li>
+                                <span class="star">*</span>생년월일
+                                <input type="text" id="birth01" placeholder="yyyy" maxlength="4">
+                                <label for="birth01">년</label>
+                                <input type="text" id="birth02" placeholder="mm" maxlength="2">
+                                <label for="birth02">월</label>
+                                <input type="text" id="birth03" placeholder="dd" maxlength="2">
+                                <label for="birth03">일</label>
+                            </li>
+                            <li class="gender">
+                                성별
+                                <input type="radio" name="gender" id="female" value="여자">
+                                <label for="female">여자</label>
+                                <input type="radio" name="gender" id="male" value="남자">
+                                <label for="female">남자</label>
+                            </li>
+                            <li class="address_list">
+                                <p><span class="star">*</span>주소</p>
+                                <input type="text" id="sample6_postcode" name="post" placeholder="우편번호" readonly>
+                                <label for="address_find" class="away">우편번호 찾기</label>
+                                <input type="button" onclick="sample6_execDaumPostcode()" value="우편번호 찾기" id="address_find" ><br>
+                                <input type="text" id="sample6_address" placeholder="주소" name="addr01"><br>
+                                <input type="text" id="sample6_detailAddress" placeholder="상세주소 입력" name="addr02">
+                                <label for="sample6_detailAddress" class="away">나머지 주소 입력</label>
+                                <script src="../js/address.js"></script>
+                            </li>
+                            <li>
+                                <span class="star">*</span>휴대전화
+                                <select name="join_select" id="phone01">
+                                    <option value="010">010</option>
+                                    <option value="011">011</option>
+                                    <option value="016">016</option>
+                                    <option value="017">017</option>
+                                    <option value="018">018</option>
+                                    <option value="019">019</option>
+                                </select>
+                                <label for="phone01" title="휴대전화 앞자리 선택">-</label>
+                                <input type="text" id="phone02" maxlength="4">
+                                <label for="phone02" title="휴대전화 두번째 자리 입력">-</label>
+                                <input type="text" id="phone03" maxlength="4">
+                                <label for="phone03" class="away">휴대전화 세번째 자리 입력</label>
+                            </li>
+                            <li>
+                                <span class="star">*</span>SMS 수신여부
+                                <input type="radio" name="sms" id="sms_agree" value="수신" checked>
+                                <label for="sms_agree">수신</label>
+                                <input type="radio" name="sms" id="sms_degree" value="수신하지 않음">
+                                <label for="sms_degree">수신하지 않음</label>
+                            </li>
+                            <li>
+                                <span class="star">*</span>이메일
+                                <input type="text" name="email01" id="email01" placeholder="example@naver.com">
+                                <label for="email01" class="away">이메일 입력</label>
+                            </li>
+                            <li class="last">
+                                <span class="star">*</span>이메일 수신여부
+                                <input type="radio" name="email" id="email_agree" value="수신" checked>
+                                <label for="email_agree">수신</label>
+                                <input type="radio" name="email" id="email_degree" value="수신하지 않음">
+                                <label for="email_degree">수신하지 않음</label>
+                            </li>
+                        </ul>
+                        <div class="btn_wrap">
+                            <button type="submit" id="join_btn">정보수정</button>
+                            <a href="../index.html" class="cancel_btn">취소</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+			<footer>
+                <div class="f_top">
+                    <ul>
+                        <li><a href="login.html">로그인</a></li>
+                        <li><a href="http://viewticket.dothome.co.kr/?move_pc_screen=1">PC버전</a></li>
+                        <li class="last"><a href="tel:1544-0000">고객센터</a></li>
+                    </ul>
+                </div>
+                <div class="f_bottom">
+                    <p>
+                        주소 : 광주광역시 서구 00동 00번지 | 대표 : 김00<br>
+                        COPYRIGHT&copy; 2020 VIEW티켓 All Rights Reserved
+                    </p>
+                </div>
+            </footer>
+        </div>
+        <aside class="top_btn">
+            <a href="#top" title="위로 가기"></a>
+        </aside>
+    </body>
+</html>

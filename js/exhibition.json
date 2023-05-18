@@ -1,0 +1,38 @@
+{
+    "exhibition": [
+        {"name":"데이비드 자민展","place":"예술의전당 한가람미술관 2층","date":"2021.01.05 ~ 2021.01.31","image":"../images/exhibition/exhibition_img_01.jpg"},
+        {"name":"［북촌］DIALOGUE IN THE DARK (어둠속의대화) - 2021년 1,2,3월","place":"북촌 어둠속의대화","date":"2021.01.01 ~ 2021.03.31","image":"../images/exhibition/exhibition_img_02.jpg"},
+        {"name":"［북촌］DIALOGUE IN THE DARK (어둠속의대화) - 2021년 10,11,12월","place":"북촌 어둠속의대화","date":"2021.10.01 ~ 2021.12.31","image":"../images/exhibition/exhibition_img_02.jpg"},
+        {"name":"［북촌］DIALOGUE IN THE DARK (어둠속의대화) - 2021년 4,5,6월","place":"북촌 어둠속의대화","date":"2021.04.01 ~ 2021.06.30","image":"../images/exhibition/exhibition_img_02.jpg"},
+        {"name":"［북촌］DIALOGUE IN THE DARK (어둠속의대화) - 2021년 7,8,9월","place":"북촌 어둠속의대화","date":"2021.07.01 ~ 2021.09.30","image":"../images/exhibition/exhibition_img_02.jpg"},
+        {"name":"［서울 연남 전시］로즈페탈","place":"로즈페탈","date":"2020.05.10 ~ 2021.05.10","image":"../images/exhibition/exhibition_img_03.jpg"},
+        {"name":"［얼리버드］모네, 빛을 그리다展 Ⅲ","place":"일산 꿈에그린 본다빈치뮤지엄","date":"2021.02.05 ~ 2021.03.31","image":"../images/exhibition/exhibition_img_04.jpg"},
+        {"name":"［얼리버드］볼로냐 일러스트 원화전 2020 ＆ 잔니 로다리 탄생 100주년 특별전","place":"예술의전당 한가람미술관 2층","date":"2021.02.11?~ 2021.03.14","image":"../images/exhibition/exhibition_img_05.jpg"},
+        {"name":"ㄱ의 순간 ［시간대별 예약］","place":"예술의전당 서예박물관","date":"2020.11.12?~ 2021.02.28","image":"../images/exhibition/exhibition_img_06.jpg"},
+        {"name":"라스트 북스토어","place":"K현대미술관 4F-5F","date":"2021.01.05?~ 2021.06.06","image":"../images/exhibition/exhibition_img_07.jpg"},
+        {"name":"로즈 와일리展","place":"예술의전당 한가람미술관 1F","date":"2020.12.04 ~ 2021.03.28","image":"../images/exhibition/exhibition_img_08.jpg"},
+        {"name":"무민 75주년 특별 원화展","place":"그라운드시소 성수","date":"2020.11.13?~ 2021.11.14","image":"../images/exhibition/exhibition_img_09.jpg"},
+        {"name":"뮤지엄오브컬러","place":"63빌딩 아쿠아플라넷","date":"2020.12.31 ~ 2021.01.31","image":"../images/exhibition/exhibition_img_10.jpg"},
+        {"name":"미켈란젤로 특별展","place":"M컨템포러리","date":"2020.12.04 ~ 2021.05.02","image":"../images/exhibition/exhibition_img_11.jpg"},
+        {"name":"스폰지밥의 행복을 찾아서","place":"팝콘D스퀘어 대원뮤지엄","date":"2020.08.01 ~ 2021.03.01","image":"../images/exhibition/exhibition_img_12.jpg"},
+        {"name":"앙리 마티스 특별展","place":"마이아트뮤지엄","date":"2020.11.01?~ 2021.04.04","image":"../images/exhibition/exhibition_img_13.jpg"},
+        {"name":"유미의 세포들 특별전 (2021.1월-3월)","place":"그라운드시소 서촌","date":"2021.01.01 ~ 2021.03.14","image":"../images/exhibition/exhibition_img_14.jpg"},
+        {"name":"장 미쉘 바스키아ㆍ거리, 영웅, 예술","place":"롯데뮤지엄","date":"2020.10.08 ~ 2021.02.07","image":"../images/exhibition/exhibition_img_15.jpg"},
+        {"name":"팀랩: 라이프(teamLab: LIFE)","place":"동대문디자인플라자 배움터 지하2층 디자인전시관","date":"2020.09.25 ~ 2021.04.04","image":"../images/exhibition/exhibition_img_16.jpg"}
+    ],
+    "experience": [
+        {"name":"[신촌] 암흑카페 1인 이용권","place":"신촌 암흑카페","date":"2020.02.15 ~ 2021.01.31","image":"../images/exhibition/experience_img_01.jpg"},
+        {"name":"경복궁의 인문학산책","place":"경복궁","date":"2018.10.01 ~ 2021.06.27","image":"../images/exhibition/experience_img_02.jpg"},
+        {"name":"국가대표궁궐, 경복궁","place":"경복궁","date":"2020.04.03 ~ 2021.03.31","image":"../images/exhibition/experience_img_03.jpg"},
+        {"name":"낙산, 이화마을 야행","place":"1호선 동대문역 6번 출구","date":"2018.07.20 ~ 2021.03.31","image":"../images/exhibition/experience_img_04.jpg"},
+        {"name":"다시 꿈을 꾸는 북촌","place":"3호선 안국역 4번출구","date":"2018.09.01 ~ 2021.03.31","image":"../images/exhibition/experience_img_05.jpg"},
+        {"name":"덕수궁 궁궐야행","place":"덕수궁","date":"2018.07.10 ~ 2021.02.28","image":"../images/exhibition/experience_img_06.jpg"},
+        {"name":"덕수궁의 인문학산책","place":"덕수궁","date":"2018.10.01 ~ 2021.06.30","image":"../images/exhibition/experience_img_07.jpg"},
+        {"name":"선릉 인문학산책","place":"선릉","date":"2019.01.01 ~ 2021.06.30","image":"../images/exhibition/experience_img_08.jpg"},
+        {"name":"예술인의 마을, 서촌","place":"3호선 경복궁역 4번 출구","date":"2018.07.14 ~ 2021.03.31","image":"../images/exhibition/experience_img_09.jpg"},
+        {"name":"창경궁 궁궐야행","place":"창경궁","date":"2019.01.25 ~ 2021.02.28","image":"../images/exhibition/experience_img_10.jpg"},
+        {"name":"창경궁의 인문학산책","place":"창경궁","date":"2018.11.13 ~ 2021.06.30","image":"../images/exhibition/experience_img_11.jpg"},
+        {"name":"창경궁의 인문학산책 - 야간개장","place":"창경궁","date":"2019.01.01 ~ 2021.06.27","image":"../images/exhibition/experience_img_12.jpg"},
+        {"name":"창덕궁의 인문학산책","place":"창덕궁","date":"2018.10.01 ~ 2021.06.27","image":"../images/exhibition/experience_img_13.jpg"}
+    ]
+}

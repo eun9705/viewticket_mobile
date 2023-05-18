@@ -1,0 +1,20 @@
+#sub_contents{ padding: 30px 15px 0; box-sizing: border-box; margin-bottom: 50px; }
+.sort_select{ margin-bottom: 15px; text-align: right; }
+#sort_list{ width: 80px; font-size: 0.875rem; -webkit-appearance: none; -moz-appearance: none; appearance: none; background: url(../images/top_nav/phone_arrow_icon.png) no-repeat 95% 50%/12px; border: none; }
+#sub_contents table{ width: 100%; text-align: center; }
+#sub_contents th{ height: 30px; background-color: #f5f5f5; border-top: 2px solid #333; box-sizing: border-box; font-size: 0.75rem; }
+#sub_contents td{ border-top: 1px solid #ccc; box-sizing: border-box; font-size: 0.75rem; color: #666; }
+#sub_contents td.subject{ text-align: left; }
+#sub_contents td.subject a{ display: block; padding: 0 10px; box-sizing: border-box; width: 180px; height: 50px; font-size: 0.75rem; color: #666; line-height: 50px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+#sub_contents table .last td{ border-bottom: 1px solid #333; box-sizing: border-box; }
+@media  screen and (max-width: 360px){
+    #sub_contents td.subject a{ width: 160px; }
+}
+@media  screen and (max-width: 320px){
+    #sub_contents td.subject a{ width: 140px; }
+}
+.page_btn{ margin-top: 20px; text-align: center; }
+.page_num a, .page_num b{ font-size: 0.875rem; margin: 0 5px; }
+.btn_wrap{ margin-top: 30px; text-align: right; }
+.btn_wrap .list_btn{ padding: 5px 15px; border: 1px solid #f19c49; box-sizing: border-box; color: #f19c49; font-size: 0.8125rem; }
+.btn_wrap .write_btn{ padding: 5px 15px; background-color: #f19c49; color: #fff; font-size: 0.8125rem; }

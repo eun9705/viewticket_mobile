@@ -1,0 +1,23 @@
+{
+    "story": [
+        {"name":"별빛엔터테인먼트","image":"../images/story/story_img_01.jpg"},
+        {"name":"국악관현악단 더불어숲","image":"../images/story/story_img_02.jpg"},
+        {"name":"동초제 판소리 감상회","image":"../images/story/story_img_03.jpg"},
+        {"name":"콜로라도 프로젝트","image":"../images/story/story_img_04.jpg"},
+        {"name":"극단 모시는사람들","image":"../images/story/story_img_05.jpg"},
+        {"name":"서초국제예술단","image":"../images/story/story_img_06.jpg"},
+        {"name":"안해본소리 프로덕션","image":"../images/story/story_img_07.jpg"},
+        {"name":"예술한잔","image":"../images/story/story_img_08.jpg"},
+        {"name":"극단 소풍전날","image":"../images/story/story_img_09.jpg"},
+        {"name":"광대생각","image":"../images/story/story_img_10.jpg"},
+        {"name":"사단법인아이엠","image":"../images/story/story_img_11.jpg"},
+        {"name":"피지앤픽처스","image":"../images/story/story_img_12.jpg"},
+        {"name":"아트소향","image":"../images/story/story_img_13.jpg"},
+        {"name":"모던가곡","image":"../images/story/story_img_14.jpg"},
+        {"name":"그루브앤드(groove&)","image":"../images/story/story_img_15.jpg"},
+        {"name":"주식회사 아이비엔터테인먼트","image":"../images/story/story_img_16.jpg"},
+        {"name":"미스엘엔터테인먼트","image":"../images/story/story_img_17.jpg"},
+        {"name":"시작","image":"../images/story/story_img_18.jpg"},
+        {"name":"극단 노뜰","image":"../images/story/story_img_19.jpg"}
+    ]
+}

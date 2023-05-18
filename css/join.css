@@ -1,0 +1,50 @@
+#sub_title h3{ height: 60px; margin-bottom: 0; line-height: 60px; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 1.125rem; }
+#join_form p{ font-size: 0.9375rem; text-align: right; margin-bottom: 10px; }
+#join_form .star{ color: #f19c49; font-size: 0.9375rem; margin-right: 10px; }
+#join_form ul{ width: 100%; margin-bottom: 30px; text-align: left; border-top: 2px solid #333; box-sizing: border-box; border-bottom: 2px solid #333; }
+#join_form ul li{ height: 50px; border-bottom: 1px solid #ccc; box-sizing: border-box; line-height: 50px; }
+#join_form ul li.address_list{ height: 90px; }
+#join_form ul li.address_list p{ position: relative; top: 20px; display: inline; }
+#join_form ul li.last{ border-bottom: none; }
+#join_form .gender{ padding-left: 20px; box-sizing: border-box; }
+#join_form input{ width: 10.625rem; height: 30px; margin-left: 5px; padding-left: 10px; box-sizing: border-box; background-color: #e5e5e5; border: none; font-size: 0.875rem; }
+#join_form input[type="radio"]{ position: relative; top: 2px; width: 15px; height: 15px; }
+#join_form input#female, #join_form input#sms_agree, #join_form input#email_agree{ margin-left: 15px; }
+#join_form input#female + label, #join_form input#sms_agree + label, #join_form input#email_agree + label{ margin-right: 10px; }
+#join_form input::placeholder{ color: #666; font-family: 'S-CoreDream-3Light', '맑은 고딕', sans-serif; font-size: 0.8125rem; }
+#join_form input#pw01{ width: 15rem; }
+#phone01, #join_form input#phone02,#join_form input#phone03{ width: 4.175rem; height: 30px; margin-left: 0; }
+#phone01{ margin-left: 5px; padding-left: 10px; -webkit-appearance: none; -moz-appearance: none; appearance: none; background: #e5e5e5 url(../images/top_nav/phone_arrow_icon.png) no-repeat 95% 50%/12px;  border: none; }
+#chk_btn{ width: 5rem; height: 30px; color: #fff; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 0.875rem; border-radius: 5px; background-color: #f19c49; }
+#join_form input#birth01, #join_form input#birth02, #join_form input#birth03{ width: 3.75rem; }
+#join_form label{ font-size: 0.875rem; }
+@media  screen and (max-width: 320px){
+    #join_form input#birth01, #join_form input#birth02, #join_form input#birth03{ width: 3.45rem; }
+    #join_form input#birth02, #join_form input#birth03{ margin-left: 0; }
+}
+#join_form input[type="checkbox"]{ width: 15px; height: 15px; border-color: #ccc; }
+#join_form .chk_title{ margin: 20px 0 15px; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 0.937rem; text-align: left; }
+#join_form p.first{ margin-top: 30px; }
+#all_chk + label{ font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 1rem; }
+#join_form dd{ display: none; margin-top: 5px; }
+#join_form textarea{ width: 100%; height: 70px; padding: 15px; line-height: 25px; box-sizing: border-box; resize: none; font-size: 0.8125rem; white-space: pre-line; }
+#join_form .btn_wrap{ margin: 30px 0 25px; text-align: center; }
+#join_btn{ width: 8.4375rem; height: 40px; color: #fff; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 1.125rem; border-radius: 5px; background-color: #f19c49; }
+#join_form .cancel_btn{ position: relative; top: -1px; display: inline-block; width: 8.4375rem; height: 40px; color: #fff; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 1.125rem; border-radius: 5px; background-color: #999; line-height: 40px; }
+#join_form #sample6_postcode{ width: 100px; }
+#join_form #address_find{ width: 110px; margin-left: 0; padding-left: 0;  background-color: #f19c49; border-radius: 5px; color: #fff; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; }
+#join_form #sample6_address, #join_form #sample6_detailAddress{ width: 7.8125rem; }
+#join_form #sample6_address{ position: relative; top: -15px;}
+#join_form #sample6_detailAddress{ position: relative; top: -65px; }
+@media  screen and (max-width: 414px){
+    #join_form #sample6_address{ left: 57px; }
+#join_form #sample6_detailAddress{ left: 203px; }
+}
+@media  screen and (max-width: 375px){
+    #join_form #sample6_address{ left: 53px; }
+#join_form #sample6_detailAddress{ left: 183px; }
+}
+@media  screen and (max-width: 320px){
+    #join_form #sample6_address{ left: 46px; }
+    #join_form #sample6_detailAddress{ left: 160px; }
+}

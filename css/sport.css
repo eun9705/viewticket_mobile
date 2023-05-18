@@ -1,0 +1,13 @@
+#sub_contents .wrap .list.grid01 li{ width: 100%; margin-bottom: 10px; padding: 20px 10px; box-sizing: border-box; border: 1px solid #ccc; background-color: #f5f5f5; }
+#sub_contents .wrap .list.grid01 li h4{ margin: 10px 0 5px; }
+#sub_contents .wrap .list li img{ margin-right: 20px; }
+#sub_contents .wrap .list li p.eng_name{ margin-bottom: 5px; }
+#sub_contents .wrap .list li a.sport_btn{ padding: 5px 15px; box-sizing: border-box; background-color: #f19c49; color: #fff; font-size: 0.75rem; }
+
+#sub_contents .wrap .list.grid02 li{ float: left; width: 50%; height: 20.9375rem; margin-bottom: 10px; padding: 20px 10px; box-sizing: border-box; border: 1px solid #ccc; background-color: #f5f5f5; }
+#sub_contents .wrap .list.grid02 li:nth-child(even){ border-left: none; }
+#sub_contents .wrap .list.grid02 li h4{ height: 2.5rem; margin: 15px 0 5px; text-align: center; }
+#sub_contents .wrap .list.grid02 li img{ margin-right: 20px; }
+#sub_contents .wrap .list.grid02 li p{ text-align: center; }
+#sub_contents .wrap .list.grid02 li p.eng_name{ height: 2rem; }
+#sub_contents .wrap .list.grid02 li a.sport_btn{ display: block; background-color: #f19c49; color: #fff; font-size: 0.75rem; text-align: center; }

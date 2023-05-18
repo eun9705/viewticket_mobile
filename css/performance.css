@@ -1,0 +1,12 @@
+#sub_contents .error_img, #sub_contents .no_img{ margin-bottom: 50px; padding-top: 150px; box-sizing: border-box; color: #999; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; background-repeat: no-repeat; background-image: url(../images/sub/error_icon.png); background-position: calc(50% + 10px) center; background-size: 80px; text-align: center; }
+#sub_contents .no_img{ background-image: url(../images/sub/no_reservation_icon.png); background-position: center;}
+#sub_contents .wrap .list{ overflow: hidden; }
+#sub_contents .wrap .list.grid01 li{ width: 100%; padding: 20px 5px; box-sizing: border-box; border-bottom: 1px solid #ededed;  overflow: hidden; }
+#sub_contents .wrap .list.grid01 li img{ float: left; width: 100px; margin-right: 10px; }
+#sub_contents .wrap .list.grid01 li h4{ font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 0.875rem; font-weight: normal; margin: 15px 0 10px; }
+#sub_contents .wrap .list li p{ font-size: 0.75rem; color: #999; }
+#sub_contents .wrap .list li p.place{ margin-bottom: 5px; }
+
+#sub_contents .wrap .list.grid02 li{ float: left; width: 50%; height: 22.5rem; padding: 20px 15px; box-sizing: border-box; overflow: hidden; }
+#sub_contents .wrap .list.grid02 li img{ width: 100%; margin-right: 10px; }
+#sub_contents .wrap .list.grid02 li h4{ height: 2.6875rem; margin: 15px 0 10px; overflow: hidden; line-height: 0.9375rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; font-family: 'S-CoreDream-5Medium', '맑은 고딕', sans-serif; font-size: 0.875rem; font-weight: normal;  }
